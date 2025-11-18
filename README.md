@@ -13,6 +13,7 @@ Este repositório contém todas as entregas da **Experiência Prática IV – Im
 ├── updates.sql
 ├── deletes.sql
 └── README.md
+
 Para executar o projeto, basta seguir esta ordem dentro do MySQL Workbench:
 
 1. Criar o banco e todas as tabelas
